@@ -35,11 +35,11 @@ config = {
 	background = {
 		{
 			source = {
-				File = "/home/giftx/background/batmans.jpeg",
+				File = "/home/giftx/background/hulk.jpeg",
 			},
 			opacity = 1, -- Reduced opacity to darken the background
 			hsb = {
-				brightness = 0.1, -- Further reduce brightness
+				brightness = 0.5, -- Further reduce brightness
 			},
 		},
 		-- Optional: Add a dark overlay
